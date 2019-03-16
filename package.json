@@ -1,0 +1,22 @@
+{
+  "name": "@forvais/eslint-config",
+  "description": "Basic ESLint configuration to be used standalone or across other configurations",
+  "version": "1.0.0",
+  "author": "FöRVaiS <forvais@nebulous.pw>",
+  "bugs": {
+    "url": "https://github.com/FoRVaiS/eslint-config/issues"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.2"
+  },
+  "homepage": "https://github.com/FoRVaiS/eslint-config#readme",
+  "license": "MIT",
+  "main": ".eslintrc.json",
+  "peerDependencies": {
+    "eslint": "^5.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoRVaiS/eslint-config.git"
+  }
+}
