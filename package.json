@@ -16,6 +16,7 @@
   "peerDependencies": {
     "eslint": "^5.15.2"
   },
+  "pre-commit": "test",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FoRVaiS/eslint-config.git"
