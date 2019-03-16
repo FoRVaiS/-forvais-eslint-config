@@ -8,7 +8,7 @@
         "linebreak-style": [2, "unix"],
         "eol-last": [2, "always"],
         "quotes": [1, "single"],
-        "jsx-quotes": [1, "single"],
+        "jsx-quotes": [1, "prefer-single"],
         "comma-dangle": [1, "always-multiline"]
     }
 }

@@ -1,7 +1,7 @@
 {
   "name": "@forvais/eslint-config",
   "description": "Basic ESLint configuration to be used standalone or across other configurations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "FöRVaiS <forvais@nebulous.pw>",
   "bugs": {
     "url": "https://github.com/FoRVaiS/eslint-config/issues"
