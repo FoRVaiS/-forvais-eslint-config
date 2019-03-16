@@ -18,5 +18,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FoRVaiS/eslint-config.git"
+  },
+  "scripts": {
+    "test": "echo '' | eslint --stdin --fix-dry-run"
   }
 }
