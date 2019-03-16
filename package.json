@@ -7,7 +7,8 @@
     "url": "https://github.com/FoRVaiS/eslint-config/issues"
   },
   "devDependencies": {
-    "eslint": "^5.15.2"
+    "eslint": "^5.15.2",
+    "pre-commit": "^1.2.2"
   },
   "homepage": "https://github.com/FoRVaiS/eslint-config#readme",
   "license": "MIT",
